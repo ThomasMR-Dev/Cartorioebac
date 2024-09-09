@@ -1,2 +1,3 @@
 # Cartorioebac
-Projeto Curso de TI (EBAC)
+Projeto - Curso TI (EBAC)
+Sistema para registro de alunos e funcionários.
